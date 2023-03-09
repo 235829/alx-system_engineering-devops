@@ -1,1 +1,1 @@
-execution permission to the owner, the group owner and the other users
+script that sets the permission to the file hello as follows
